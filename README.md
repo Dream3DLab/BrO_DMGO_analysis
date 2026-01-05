@@ -1,15 +1,14 @@
-[![DOI](https://zenodo.org/badge/15356014.svg)](https://zenodo.org/badge/latestdoi/15356014)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.16992353.svg)](https://doi.org/10.5281/zenodo.16992353)
 
 # Transcriptomic profiling of BrO, DMGO and GD2 CAR T cells
 
+Repository accompanying the publication <br> [**De novo H3.3K27M-altered Diffuse Midline Glioma in human brainstem organoids to dissect GD2 CAR T cell function**](https://doi.org/10.1038/s43018-025-01084-0)
 
-> **Note** :construction: <br>
-> We are currently collecting and uploading all notebooks used in this analysis.<br>
-> This note wil disappear as soon as all code has been made available via this page.
-
-Repository accompanying the publication **De novo H3.3K27M-altered Diffuse Midline Glioma in human brainstem organoids to dissect GD2 CAR T cell function**
+<br>
 
 ![](supplemental_files/graphical_abstract.jpg)
+
+<br>
 
 The repository is organized firstly per model and secondly per coding language
 
@@ -20,11 +19,11 @@ The repository is organized firstly per model and secondly per coding language
 For code related to the lineage tracing data please refer to the [GitHub](https://github.com/anna-alemany/TrackerSeq_BROs) of the [Alemany lab](https://www.alemany-lab.com/).
 
 ## Data availability
-Raw fastq files have been deposited on ArrayExpress under accession [E-MTAB-15147]. <br>
-Processed datasets (.h5ad and .rds) are available through [Zenodo](https://zenodo.org/badge/latestdoi/15356014).
+Raw fastq files have been deposited on ArrayExpress under accession [E-MTAB-15147](https://www.ebi.ac.uk/biostudies/arrayexpress/studies/E-MTAB-15147). <br>
+Processed datasets (.h5ad and .rds) are available through [Zenodo](https://zenodo.org/records/16992353).
 
 ## Citation
-> Bessler, N.; Wezenaar A.K.L.; Ariese, H.C.R.; Honhoff, C. et al. De novo H3.3K27M-altered Diffuse Midline Glioma in human brainstem organoids to dissect GD2 CAR T cell function. Nature Cancer, 2025
+> Bessler, N., Wezenaar, A.K.L., Ariese, H.C.R. et al. De novo H3.3K27M-altered diffuse midline glioma in human brainstem organoids to dissect GD2 CAR T cell function. Nat Cancer (2026)
 
 ## Acknowledgements
 
